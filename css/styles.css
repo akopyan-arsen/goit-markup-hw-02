@@ -29,7 +29,7 @@ a {
   color: #2e2f42;
 }
 
-.navigation a {
+.navigation-a {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
@@ -37,10 +37,10 @@ a {
   letter-spacing: 0.32px;
 }
 
-.navigation a:hover,
-.navigation a:focus,
-.header-address a:hover,
-.header-address a:focus {
+.navigation-a:hover,
+.navigation-a:focus,
+.header-address-a:hover,
+.header-address-a:focus {
   color: #404bbf;
 }
 
@@ -48,7 +48,7 @@ a {
   font-style: normal;
 }
 
-.header-address a {
+.header-address-a {
   color: #434455;
   font-size: 16px;
   font-style: normal;
